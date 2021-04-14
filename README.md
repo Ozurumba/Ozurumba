@@ -1,6 +1,6 @@
 ### Hi Buddy 👋
 
-<center> <a href="https://ozurumbaobinna.netlify.app/">Website</a>  <a href="https://twitter.com/ObinnaOzurumba3">Twitter</a> <a href="https://www.linkedin.com/in/ozurumba-obinna-985a37148/">Linkedin</a> </center>
+<div style=""text-align: center> <a href="https://ozurumbaobinna.netlify.app/">Website</a> || <a href="https://twitter.com/ObinnaOzurumba3">Twitter</a>  || <a href="https://www.linkedin.com/in/ozurumba-obinna-985a37148/">Linkedin</a> </div>
 
 I am a Software Solutions Architect at Enable Tech Africa, the leading software solutions company in Nigeria and Africa. I'm also a blockchain writer at The Journal Blog on Medium.
 
