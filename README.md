@@ -15,7 +15,7 @@
 
 🌟 If you're working on exciting projects in payments, chatbots, fintech, or e-commerce, let's connect! I'm eager to collaborate and contribute to ventures that push the boundaries of innovation.
 
-📫 Feel free to reach out to me at <a href="ozuruobinna@gmail.com">Email</a> or connect with me on [LinkedIn/Twitter/other relevant platforms]. Together, let's build exceptional solutions that revolutionize the way we interact and transact online.
+📫 Feel free to reach out to me at <a href = "mailto: ozuruobinna@gmail.com">Email</a> or connect with me on [LinkedIn/Twitter/other relevant platforms]. Together, let's build exceptional solutions that revolutionize the way we interact and transact online.
 
 Specialities: Product Management, Team Management, Team Building, Roadmaping ,  Strategic Planning, Software Development, Frontend and Back-End Web Development and Start-Ups. I have some experiences in Fintech, Venturer Capitalism, Blockchain Technology, E-commerce, IoT and B2B Apps.
 
