@@ -3,7 +3,7 @@
 <div style=""text-align: center> <a href="https://ozurumbaobinna.netlify.app/">Website</a> || <a href="https://twitter.com/ObinnaOzurumba3">Twitter</a>  || <a href="https://www.linkedin.com/in/ozurumba-obinna-985a37148/">Linkedin</a> </div>
 
 
-👋 Hello! I'm Ozurumba Obinna, an experienced Technical Product Manager and software developer with a strong focus on web 2 and web 3 technologies. I specialize in the fascinating realms of payments, chatbots (AI), fintech, and e-commerce.
+👋 Hello! I'm Ozurumba Obinna, an experienced Technical Product Manager and software developer with a strong focus on Agnetic AI, web 2 and web 3 technologies. I specialize in the fascinating realms of payments, chatbots (AI), fintech, and e-commerce.
 
 💻 Over the course of several years, I have honed my skills in Technical Product Management, effectively translating ideas into tangible products that meet the needs of users. My software development experience has equipped me with a deep understanding of both web 2 and web 3 ecosystems, enabling me to navigate the complexities of these evolving landscapes.
 
